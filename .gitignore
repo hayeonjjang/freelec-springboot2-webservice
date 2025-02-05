@@ -2,5 +2,4 @@
 .gradle
 .idea
 settings.gradle
-src/
 application-oauth.properties
