@@ -1,0 +1,10 @@
+com/hayeon/book/springboot/domain/posts/PostsRepositoryTest.java
+ com.hayeon.book.springboot.domain.posts.PostsRepositoryTest
+com/hayeon/book/springboot/web/IndexControllerTest.java
+ com.hayeon.book.springboot.web.IndexControllerTest
+com/hayeon/book/springboot/dto/HelloResponseDtoTest.java
+ com.hayeon.book.springboot.dto.HelloResponseDtoTest
+com/hayeon/book/springboot/HelloControllerTest.java
+ com.hayeon.book.springboot.HelloControllerTest
+com/hayeon/book/springboot/web/PostsApiControllerTest.java
+ com.hayeon.book.springboot.web.PostsApiControllerTest
